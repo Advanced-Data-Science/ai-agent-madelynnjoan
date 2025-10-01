@@ -1,6 +1,0 @@
-{
-  "api_endpoint": "https://data.cdc.gov/resource/5xkq-dg7x.json",
-  "year": 2022,
-  "state": "Vermont",
-  "columns": ["year", "state", "illnesses", "hospitalizations", "deaths"]
-}
